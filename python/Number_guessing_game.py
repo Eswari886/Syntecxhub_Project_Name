@@ -2,7 +2,6 @@ import random
 
 def play_game():
     print("\n=== Number Guessing Game ===")
-
     print("Select Difficulty:")
     print("1. Easy (1-50)")
     print("2. Medium (1-100)")
